@@ -145,16 +145,6 @@ Modular and API-driven architecture.
 
 ---
 
-## 🔑 Gemini API Setup
-
-Create a .env file in the backend directory:
-GEMINI_API_KEY=AIzaSyCt38N-OV4yS3MnvnjRV2CNobCxBk6Jv3A
-MONGODB_URI=mongodb+srv://naveenraj:N4243n2005@llcluster.wfh6cv0.mongodb.net/?appName=LLCluster
-
-Make sure the Gemini key is stored securely and not committed to GitHub.
-
----
-
 ## 🎯 Hackathon Focus
 
 LayerLock demonstrates:
