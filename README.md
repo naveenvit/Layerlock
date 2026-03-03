@@ -178,7 +178,7 @@ It correlates breach signals, models network risk, and intervenes before money l
 
 ---
 
-## 👨‍💻 Developed By
+## 👨‍💻 Developed By Team "Certified Bots"
 
 Vidhyashree G
 
