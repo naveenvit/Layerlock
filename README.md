@@ -108,7 +108,6 @@ Modular and API-driven architecture.
 - React
 - Next.js
 - Tailwind CSS
-- React Flow / D3.js
 
 ### Backend
 - Node.js
